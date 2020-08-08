@@ -1,6 +1,7 @@
 package com.davemorrissey.labs.subscaleview;
 
 import android.graphics.PointF;
+
 import androidx.annotation.NonNull;
 
 import java.io.Serializable;
